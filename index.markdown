@@ -4,5 +4,5 @@
 
 layout: home
 ---
-DUDE, this is so uncool!
+DUDE, this is so uncool!!
 
