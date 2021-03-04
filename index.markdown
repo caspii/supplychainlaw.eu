@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Supply Chain Laws are coming to the EU. Find out more here.
