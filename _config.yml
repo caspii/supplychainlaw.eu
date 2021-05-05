@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   accountable for ensuring that social and environmental standards are upheld across the entire production chain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-sitemap
