@@ -1,6 +1,6 @@
 ---
-title: EU Supply Chain Laws
-subtitle: Supply Chain Laws are coming to the EU. Find out more here.
+title: German and EU Supply Chain Laws
+subtitle: Germany has now introduced a supply chain law, which is aimed to protect the human rights and working conditions of all employees involved in the supply chain.
 layout: page
 show_sidebar: false
 toc: true
